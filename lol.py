@@ -1,4 +1,4 @@
 def lol():
-    print("hola")
+    print("Hola Mundo")
 
 lol()
